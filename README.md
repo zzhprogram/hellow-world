@@ -1,5 +1,1 @@
-# hellow-world
-just a try to creat a repository.
-
-hello, my name is zzh, though i'm not major in cs, but i hope to learn it by myself. 
-I know in the github, there has many astonish people who share thire outstanding work selflishless, so i hope to learn more from these presons!
+vmess://eyJ2IjoyLCJwcyI6IjIzM2JveS10Y3AtNDMuMTYxLjIzNS4xNTgiLCJhZGQiOiI0My4xNjEuMjM1LjE1OCIsInBvcnQiOiIyMDYwNSIsImlkIjoiMjhjZDVmZmEtZDAxOS00NjNhLWJiZDQtZjY4ZWEyZDhiMmVlIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwicGF0aCI6IiJ9
